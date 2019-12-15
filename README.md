@@ -4,4 +4,4 @@
 3. Run "npm start" 
 
 
-Endpoint to POST: "<url>/resultData"
+Endpoint to POST: "http://localhost:5153/resultData"
